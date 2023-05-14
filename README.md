@@ -8,10 +8,10 @@ Este repositorio contiene los archivos para hacer un servidor web con DHT11 cone
 - Se carga el siguiente código de Arduino al ESP32
 [Código para el ESP32](https://github.com/raymundosoto/Servidor-web-de-datos-de-un-DHT11-con-el-ESP32/tree/main/dht11_en_WEB)
 
-- Se ingresa a la dirección que nos da el monitor serial
+- Se ingresa a un nvegador con la dirección que nos da el monitor serial
 - Se despliega la página web con los datos del DHT11
--  
 
+![imagen](https://github.com/raymundosoto/Servidor-web-de-datos-de-un-DHT11-con-el-ESP32/assets/72757419/fcc6565c-a825-42e6-b8e7-790d8e3ccd0a)
 
 
 
